@@ -4,22 +4,7 @@ I'm a Senior Developer Advocate for [AWS Amplify](https://docs.amplify.aws/). I 
 
 You can keep tabs on what I'm making via [Twitter](https://twitter.com/aspittel) or [Polywork](https://alispit.tel/).
 
-📝 I write at [We Learn Code](https://welearncode.com/)
-🎧 I podcast at the [Ladybug Podcast](https://www.ladybug.dev/)
-📹 I make videos on [YouTube](https://www.youtube.com/alispitteldev) and [Egghead](https://egghead.io/q/resources-by-ali-spittel)
-📢 I do [public speaking](https://github.com/aspittel/cfps) - reach out via Polywork!
-
-<!--
-**aspittel/aspittel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 I write at [We Learn Code](https://welearncode.com/)
+- 🎧 I podcast at the [Ladybug Podcast](https://www.ladybug.dev/)
+- 📹 I make videos on [YouTube](https://www.youtube.com/alispitteldev) and [Egghead](https://egghead.io/q/resources-by-ali-spittel)
+- 📢 I do [public speaking](https://github.com/aspittel/cfps) - reach out via Polywork!
